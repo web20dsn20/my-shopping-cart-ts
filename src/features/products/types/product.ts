@@ -4,7 +4,7 @@ export interface Product {
     price:number;
     image:string;
 }
-export const products: Product[]=[{
+export const products: Product[]=[{ 
     id:1,
     title:"Wireless headphones",
     price:100,
