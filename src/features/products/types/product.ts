@@ -6,7 +6,7 @@ export interface Product {
 }
 export const products: Product[]=[{ 
     id:1,
-    title:"Wireless headphones_",
+    title:"Wireless headphones",
     price:100,
     image:"https://via.placeholder.com/150"
 }, {
